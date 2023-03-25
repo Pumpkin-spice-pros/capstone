@@ -1,0 +1,17 @@
+#authDisplayed{
+    display: block;
+}
+
+#authHidden{
+    display: none;
+}
+
+#lightUp{
+    color: rgb(0, 125, 65);
+    text-decoration: underline;
+}
+
+#darken{
+    color: grey;
+    text-decoration: none;
+}
